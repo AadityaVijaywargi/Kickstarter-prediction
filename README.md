@@ -1,4 +1,3 @@
-# Kickstarter-prediction
 # Kickstarter Project Success Prediction
 
 UE24CS352A Machine Learning Mini-Project, Problem #56. Predicts whether a Kickstarter campaign will succeed
