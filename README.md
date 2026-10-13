@@ -52,3 +52,10 @@ To regenerate the data: `python generate_dataset.py`.
 
 ## Predicting a new project
 The last notebook section defines `predict_project(...)`, which returns the prediction and success/failure probabilities.
+
+
+## Contributors
+
+- ## Contributors
+
+- amruta212006-web — Project contributor
